@@ -1,5 +1,7 @@
 # H3K9me3_EpiDevelopment_NatComm2026
 
+[![DOI](https://zenodo.org/badge/1149419637.svg)](https://doi.org/10.5281/zenodo.19358130)
+
 This repository contains analysis scripts used in the study investigating the role of H3K9me3 in epidermal development (Bai et al., 2026).
 
 ## Repository structure
