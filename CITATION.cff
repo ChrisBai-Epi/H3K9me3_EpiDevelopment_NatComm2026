@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Initial release: Code for Bai et al. 2026
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Bai
+    given-names: Chris Ke
+date-released: 2026-03-31
+version: 1.0
+doi: 10.5281/zenodo.19358131
+repository-code: https://github.com/ChrisBai-Epi/H3K9me3_EpiDevelopment_NatComm2026/
